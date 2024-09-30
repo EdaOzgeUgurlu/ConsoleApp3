@@ -1,8 +1,11 @@
 using System;
+
 namespace edaozge
 {
+
     class Program
     {
+    
         static void Main(string[] args)
         {
             Console.WriteLine("Eda Özge Uğurlu ");
