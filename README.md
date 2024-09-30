@@ -2,6 +2,7 @@ using System;
 
 namespace edaozge
 {
+
     class Program
     {
     
