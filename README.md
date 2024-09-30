@@ -12,5 +12,4 @@ namespace edaozge
             Console.WriteLine("Farklı mesleklerden insanların patika sayesinde yazılım öğrenmesi patika da bu bootcampe başlamama sebep oldu.");
         }
             
-    }
-}
+    }  }
